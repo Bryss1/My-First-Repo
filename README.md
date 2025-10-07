@@ -1,2 +1,2 @@
 # My-First-Repo
-Local de deposito de toda a creatividade.
+Local de depósito de toda a criatividade.

@@ -7,5 +7,3 @@ mensagemOlaMundoEstilizada.transparencia = ();
 mensagemOlaMundoEstilizada.texto = ();
 mensagemOlaMundoEstilizada.textura = ();
 ];
-
-console.log("sonic da bahia");

@@ -1,4 +1,4 @@
-console.log("Olá, Mundo bora codar!");
+console.log("Olá, Mundo");
 const mensagemOlaMundoEstilizada = [
     mensagemOlaMundoEstilizada.caixaDeFundo = ();
 mensagemOlaMundoEstilizada.corDeFundo = ();

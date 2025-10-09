@@ -1,3 +1,9 @@
+
+
+Git:
+Existem Varios comandos que podem ser utilizados
+
+
 A estrutura do código se geralmente define como a seguinte:
 
 Branchs (Ramificações):
@@ -17,4 +23,4 @@ Uma parte ja fracionada do código a ser trabalhada separadamente, e que pode ev
 
 \\Linha de branch Master\\---- (v0.1)-----------------------------> (v0.2)----------------------------> (v1.0 "Versão Atual")-----
 \\Linha de branch Develop\\--- (v0.1)--->("Dev".elop)--->(Dev)--->(Dev)---> (v0.2)--------------------> (v1.0 "Versão Atual")-----
-\\Linha de branch Feature\\--------------(Dev)--->("Feat".ure)--->(Feat)--->(Feat)--->(Feat)----------> (v1.0 "Versão Atual")-----
+\\Linha de branch Feature\\(v0.1) -------(Dev)--->("Feat".ure)--->(Feat)--->(Feat)--->(Feat)----------> (v1.0 "Versão Atual")-----

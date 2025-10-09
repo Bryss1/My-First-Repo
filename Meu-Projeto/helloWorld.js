@@ -1,4 +1,5 @@
 console.log("Olá, Mundo");
+console.log("Olá, Dia");
 const mensagemOlaMundoEstilizada = [
     mensagemOlaMundoEstilizada.caixaDeFundo = ();
 mensagemOlaMundoEstilizada.corDeFundo = ();
